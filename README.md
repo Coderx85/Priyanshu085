@@ -1,16 +1,54 @@
-### Hi there 👋
+# Welcome to Priyanshu's GitHub Profile! 👨‍💻
 
-<!--
-**Priyanshu085/Priyanshu085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://example.com/banner-image.png)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in Machine Learning. I specialize in Back-end Web Development and enjoy working on projects related to Generative AI and Prompt Engineering.
+
+- 🌱 I’m currently learning more about Machine Learning and exploring new technologies.
+- 💬 Ask me about Back-end Development, Generative AI, or anything related to Full Stack Development.
+- 📫 How to reach me: abpriyanshu007@gmail.com
+- 😄 Pronouns: He/Him
+
+## My Projects
+
+### [PromptHub](link-to-prompthub)
+PromptHub is a project that does [brief description].
+
+![PromptHub Screenshot](https://example.com/prompthub-screenshot.png)
+
+### [Portfolio](link-to-portfolio)
+A showcase of my personal projects and achievements.
+
+![Portfolio Screenshot](https://example.com/portfolio-screenshot.png)
+
+### [MERN-Blog](link-to-mern-blog)
+A full-stack blog application built using the MERN stack.
+
+![MERN-Blog Screenshot](https://example.com/mern-blog-screenshot.png)
+
+### [File Share](link-to-file-share)
+A simple file-sharing application for seamless collaboration.
+
+![File Share Screenshot](https://example.com/file-share-screenshot.png)
+
+## Skills
+
+- **Programming Languages:** JavaScript, Python
+- **Frameworks & Libraries:** Node.js, Express.js, React.js, MongoDB, TensorFlow
+- **Tools & Technologies:** Git, Docker, AWS, Google Cloud Platform
+
+## Let's Connect
+
+- [Leetcode](https://leetcode.com/Priyanshu085/)
+- [LinkedIn](https://www.linkedin.com/in/Priyanshu085/)
+- [Google Developer Console](https://console.developers.google.com/project/Priyanshu085)
+
+## Fun Fact
+
+I once built a chatbot that could tell jokes in six different languages!
+
+---
+
+Thanks for visiting my profile! Feel free to explore my projects and don't hesitate to get in touch. 😊
