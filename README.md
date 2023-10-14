@@ -18,12 +18,12 @@ PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and M
 
 ![PromptHub Screenshot](/Screenshots/1.PromptHub.png)
 
-### [Portfolio](link-to-portfolio)
+### [Portfolio](https://github.com/Priyanshu085/Portfolio)
 A showcase of my personal projects and achievements.
 
 ![Portfolio Screenshot](/Screenshots/2.Portfolio.png)
 
-### [File Share](link-to-file-share)
+### [File Share](https://github.com/Priyanshu085/File-Share)
 A simple file-sharing application for seamless collaboration.
 
 ![File Share Screenshot](https://example.com/file-share-screenshot.png)
