@@ -16,17 +16,12 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 ### [PromptHub](link-to-prompthub)
 PromptHub is a project that does [brief description].
 
-![PromptHub Screenshot](https://example.com/prompthub-screenshot.png)
+![PromptHub Screenshot](/Screenshots/1.PromptHub.png)
 
 ### [Portfolio](link-to-portfolio)
 A showcase of my personal projects and achievements.
 
-![Portfolio Screenshot](https://example.com/portfolio-screenshot.png)
-
-### [MERN-Blog](link-to-mern-blog)
-A full-stack blog application built using the MERN stack.
-
-![MERN-Blog Screenshot](https://example.com/mern-blog-screenshot.png)
+![Portfolio Screenshot](/Screenshots/2.Portfolio.png)
 
 ### [File Share](link-to-file-share)
 A simple file-sharing application for seamless collaboration.
