@@ -8,7 +8,7 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 
 - 🌱 I’m currently learning more about Machine Learning and exploring new technologies.
 - 💬 Ask me about Back-end Development, Generative AI, or anything related to Full Stack Development.
-- 📫 How to reach me: abpriyanshu007@gmail.com
+- 📫 How to reach me: abpriyanshu007@gmail.com.
 - 😄 Pronouns: He/Him
 
 ## My Projects
@@ -36,8 +36,8 @@ A simple file-sharing application for seamless collaboration.
 ## Skills
 
 - **Programming Languages:** JavaScript, Python
-- **Frameworks & Libraries:** Node.js, Express.js, React.js, MongoDB, TensorFlow
-- **Tools & Technologies:** Git, Docker, AWS, Google Cloud Platform
+- **Frameworks & Libraries:** Next.js Node.js, Express.js, React.js, MongoDB.
+- **Tools & Technologies:** Git, Google Cloud Platform
 
 ## Let's Connect
 
