@@ -37,13 +37,13 @@ A simple file-sharing application for seamless collaboration.
 
 - **Programming Languages:** JavaScript, Python
 - **Frameworks & Libraries:** Next.js Node.js, Express.js, React.js, MongoDB.
-- **Tools & Technologies:** Git, Google Cloud Platform
+- **Tools & Technologies:** Git, Google Cloud Platform.
 
 ## Let's Connect
 
 - [Leetcode](https://leetcode.com/Priyanshu085/)
 - [LinkedIn](https://www.linkedin.com/in/Priyanshu085/)
-- [Google Developer Console](https://console.developers.google.com/project/Priyanshu085)
+- [Google Developer Console](https://g.dev/priyanshu085)
 
 ## Fun Fact
 
