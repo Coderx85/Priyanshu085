@@ -1,6 +1,6 @@
 # Welcome to Priyanshu's GitHub Profile! 👨‍💻
 
-![Profile Banner]()
+![Profile Banner](banner.png)
 
 ## About Me
 
