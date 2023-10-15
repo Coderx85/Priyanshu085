@@ -11,6 +11,8 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 - 📫 How to reach me: abpriyanshu007@gmail.com.
 - 😄 Pronouns: He/Him
 
+[![An image of @priyanshu085's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu085)](https://holopin.io/@priyanshu085)
+
 ## My Projects
 
 ### [PromptHub](https://github.com/Priyanshu085/Prompthub)
