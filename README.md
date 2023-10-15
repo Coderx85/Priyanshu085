@@ -57,9 +57,9 @@ I'm not funny
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&show_icons=true&locale=en&layout=compact" alt="priyanshu085" width="1000" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&show_icons=true&locale=en&layout=compact" alt="priyanshu085" width="400" height="250" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu085&show_icons=true&locale=en" alt="priyanshu085" width="1000" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu085&show_icons=true&locale=en" alt="priyanshu085" width="400" height="250" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu085&" width="1000"  alt="priyanshu085" />
 
