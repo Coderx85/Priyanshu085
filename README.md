@@ -28,21 +28,40 @@ A simple file-sharing application for seamless collaboration.
 
 ![File Share Screenshot](https://example.com/file-share-screenshot.png)
 
-## Skills
-
-- **Programming Languages:** JavaScript, Python
-- **Frameworks & Libraries:** Next.js Node.js, Express.js, React.js, MongoDB.
-- **Tools & Technologies:** Git, Google Cloud Platform.
+## Language and Tools
+<p align="left"> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
 
 ## Let's Connect
 
+<p align="left">
+<a href="https://linkedin.com/in/priyanshu085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu085" height="30" width="40" /></a>
+
+<br>
+<a href="https://www.leetcode.com/priyanshu085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu085" height="30" width="40" /></a>
+</p>
+
+<!-- 
 - [Leetcode](https://leetcode.com/Priyanshu085/)
 - [LinkedIn](https://www.linkedin.com/in/Priyanshu085/)
-- [Google Developer Console](https://g.dev/priyanshu085)
+- [Google Developer Console](https://g.dev/priyanshu085) -->
 
 ## Fun Fact
+I'm not funny
 
-I once built a chatbot that could tell jokes in six different languages!
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&show_icons=true&locale=en&layout=compact" alt="priyanshu085" width="1000" />
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu085&show_icons=true&locale=en" alt="priyanshu085" width="1000" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu085&" width="1000"  alt="priyanshu085" />
 
 ---
 
