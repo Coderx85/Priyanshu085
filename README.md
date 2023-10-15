@@ -16,7 +16,7 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 ### [PromptHub](https://github.com/Priyanshu085/Prompthub)
 PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and MongoDB. Empowering creativity, it enables users to seamlessly share and explore prompts for writing and ideation.
 
-![PromptHub Screenshot](/screenshots/PromptHub.png)
+![PromptHub Screenshot](/screenshots/Prompthub.png)
 
 ### [Portfolio](https://github.com/Priyanshu085/Portfolio)
 A showcase of my personal projects and achievements.
