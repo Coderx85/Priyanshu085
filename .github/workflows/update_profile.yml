@@ -1,0 +1,23 @@
+name: Update Profile
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Profile
+        run: |
+          cp -r .github-profile/. README.md
+          git config --local user.email "abpriyanshu007@gmail.com"
+          git config --local user.name "Priyanshu085"
+          git add .
+          git commit -m "Update profile"
+          git push
