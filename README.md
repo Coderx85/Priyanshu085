@@ -25,7 +25,7 @@ A showcase of my personal projects and achievements.
 
 ![Portfolio Screenshot](/screenshots/Portfolio.png)
 
-### [File Share](https://github.com/Priyanshu085/File-Share)
+### [FileShare](https://github.com/Priyanshu085/FileShare)
 A simple file-sharing application for seamless collaboration.
 
 ![File Share Screenshot](https://example.com/file-share-screenshot.png)
