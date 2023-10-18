@@ -2,8 +2,15 @@
 
 ![Profile Banner](/Banner.png)
 
-## About Me
 
+### Table Of Content
+- [ABOUT ME](#about-me)
+- [MY PROJECTS](#my-projects)
+- [LANGUAGE AND TOOLS](#language-and-tools)
+- [SOCIAL LINKS](#lets-connect)
+- [LICENSE](#license)
+
+## About Me
 Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in Machine Learning. I specialize in Back-end Web Development and enjoy working on projects related to Generative AI and Prompt Engineering.
 
 - 🌱 I’m currently learning more about Machine Learning and exploring new technologies.
@@ -15,17 +22,17 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 
 ## My Projects
 
-### [PromptHub](https://github.com/Priyanshu085/Prompthub)
+### [1. PromptHub](https://github.com/Priyanshu085/Prompthub)
 PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and MongoDB. Empowering creativity, it enables users to seamlessly share and explore prompts for writing and ideation.
 
 ![PromptHub Screenshot](/screenshots/Prompthub.png)
 
-### [Portfolio](https://github.com/Priyanshu085/Portfolio)
+### [2. Portfolio](https://github.com/Priyanshu085/Portfolio)
 A showcase of my personal projects and achievements.
 
 ![Portfolio Screenshot](/screenshots/Portfolio.png)
 
-### [FileShare](https://github.com/Priyanshu085/FileShare)
+### [3. FileShare](https://github.com/Priyanshu085/FileShare)
 A simple file-sharing application for seamless collaboration.
 
 ![File Share Screenshot](https://example.com/file-share-screenshot.png)
@@ -42,10 +49,7 @@ A simple file-sharing application for seamless collaboration.
 
 ## Let's Connect
 
-<p align="left">
-<a href="https://linkedin.com/in/priyanshu085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu085" height="30" width="40" /></a>
-
-<br>
+<a href="https://linkedin.com/in/priyanshu085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu085" height="30" width="40" /></a> 
 <a href="https://www.leetcode.com/priyanshu085" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu085" height="30" width="40" /></a>
 </p>
 
@@ -55,7 +59,10 @@ A simple file-sharing application for seamless collaboration.
 - [Google Developer Console](https://g.dev/priyanshu085) -->
 
 ## Fun Fact
-I'm not funny
+I'm not funny 😉
+
+## License
+[MIT LICENSE](LICENSE)
 
 <br>
 
@@ -68,3 +75,4 @@ I'm not funny
 ---
 
 Thanks for visiting my profile! Feel free to explore my projects and don't hesitate to get in touch. 😊
+
