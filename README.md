@@ -34,8 +34,6 @@ PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and M
 A showcase of my personal projects and achievements.
 ![Portfolio Screenshot](/screenshots/Portfolio.png)
 
-![File Share Screenshot](https://example.com/file-share-screenshot.png)
-
 ## Language and Tools
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
