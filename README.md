@@ -22,18 +22,17 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 
 ## My Projects
 
-### [1. PromptHub](https://github.com/Priyanshu085/Prompthub)
-PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and MongoDB. Empowering creativity, it enables users to seamlessly share and explore prompts for writing and ideation.
+### [1. NexDrive](https://github.com/Priyanshu085/NexDrive)
+NexDrive is a dynamic car marketplace built with Next.js, Tailwind CSS, and TypeScript.
+![NexDrive Screenshot](/screenshots/NexDrive.png)
 
+### [2. PromptHub](https://github.com/Priyanshu085/Prompthub)
+PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and MongoDB. Empowering creativity, it enables users to seamlessly share and explore prompts for writing and ideation.
 ![PromptHub Screenshot](/screenshots/Prompthub.png)
 
-### [2. Portfolio](https://github.com/Priyanshu085/Portfolio)
+### [3. Portfolio](https://github.com/Priyanshu085/Portfolio)
 A showcase of my personal projects and achievements.
-
 ![Portfolio Screenshot](/screenshots/Portfolio.png)
-
-### [3. FileShare](https://github.com/Priyanshu085/FileShare)
-A simple file-sharing application for seamless collaboration.
 
 ![File Share Screenshot](https://example.com/file-share-screenshot.png)
 
