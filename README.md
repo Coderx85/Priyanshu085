@@ -64,14 +64,16 @@ I'm not funny 😉
 <br>
 
 
-[![Priyanshu's Github stats](https://github-readme-stats.vercel.app/api?username=priyanshu085&show_icons=true&theme=radical)](https://github.com/Priyanshu085)  
+[![Priyanshu's Github stats](https://github-readme-stats.vercel.app/api?username=priyanshu085&layout=donut-vertical&show_icons=true&title_color=04478d9&theme=transparent&icon_color=04478d9&text_color=ffffff&bg_color=000\&rank_icon=github)](https://github.com/Priyanshu085)  
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-Cobian&show_icons=true&theme=radical&layout=compact)](https://github.com/German-Cobian/github-readme-stats) -->
 
 
-[![Priyanshu](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&show_icons=true&theme=radical&locale=en&layout=compact)](https://github.com/Priyanshu085)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&layout=donut-vertical&show_icons=true&theme=dark&title_color=04478d9&icon_color=04478d9&text_color=ffffff&bg_color=000)](https://github.com/Priyanshu085)
 
-[![Priyansu](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu085&theme=radical)](https://github.com/Priyanshu085)
+<!-- [![Priyansu](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu085&theme=dark&title_color=007BFF&icon_color=007BFF&text_color=007BFF&bg_color=000)](https://github.com/Priyanshu085) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Priyanshu085&theme=transparent&hide_border=true&bg_color=000&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 ---
 
