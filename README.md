@@ -63,11 +63,15 @@ I'm not funny 😉
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&show_icons=true&locale=en&layout=compact" alt="priyanshu085" width="400" height="250" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu085&show_icons=true&locale=en" alt="priyanshu085" width="400" height="250" />
+[![German-Cobian's Github stats](https://github-readme-stats.vercel.app/api?username=priyanshu085&show_icons=true&theme=radical)](https://github.com/Priyanshu085/github-readme-stats)  
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu085&" width="1000"  alt="priyanshu085" />
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-Cobian&show_icons=true&theme=radical&layout=compact)](https://github.com/German-Cobian/github-readme-stats) -->
+
+
+[![Priyanshu](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&show_icons=true&theme=radical&locale=en&layout=compact)](https://github.com/Priyanshu085/github-readme-stats)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu085&theme=radical" width="1000"  alt="priyanshu085" />
 
 ---
 
