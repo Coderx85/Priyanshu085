@@ -75,6 +75,11 @@ I'm not funny 😉
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Priyanshu085&theme=transparent&hide_border=true&bg_color=000&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Priyanshu085/count.svg" />
+</p>
+
 ---
 
 Thanks for visiting my profile! Feel free to explore my projects and don't hesitate to get in touch. 😊
