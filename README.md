@@ -71,9 +71,7 @@ I'm not funny 😉
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&layout=donut-vertical&show_icons=true&theme=dark&title_color=04478d9&icon_color=04478d9&text_color=ffffff&bg_color=000)](https://github.com/Priyanshu085)
 
-<!-- [![Priyansu](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu085&theme=dark&title_color=007BFF&icon_color=007BFF&text_color=007BFF&bg_color=000)](https://github.com/Priyanshu085) -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Priyanshu085&theme=transparent&hide_border=true&bg_color=000&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu085&theme=shadow-blue&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 
 <p align="center"> 
   Visitor count<br>
