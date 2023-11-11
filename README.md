@@ -1,7 +1,6 @@
-# Welcome to Priyanshu's GitHub Profile! 👨‍💻
+# Welcome to My GitHub Profile! 👨‍💻
 
 ![Profile Banner](/Banner.png)
-
 
 ### Table Of Content
 - [ABOUT ME](#about-me)
@@ -15,24 +14,26 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 
 - 🌱 I’m currently learning more about Machine Learning and exploring new technologies.
 - 💬 Ask me about Back-end Development, Generative AI, or anything related to Full Stack Development.
-- 📫 How to reach me: abpriyanshu007@gmail.com.
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [My Email](abpriyanshu007@gmail.com).
+- 🟥 Visit my website: [My Portfolio](https://priyanshu085.tech).
+- 😄 Pronouns: He/Him.
 
 [![An image of @priyanshu085's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu085)](https://holopin.io/@priyanshu085)
 
 ## My Projects
 
+
 ### [1. NexDrive](https://github.com/Priyanshu085/NexDrive)
-NexDrive is a dynamic car marketplace built with Next.js, Tailwind CSS, and TypeScript.
+NexDrive is a dynamic car marketplace built with Next.js, Tailwind CSS, and TypeScript.<br/> 
 ![NexDrive Screenshot](/screenshots/NexDrive.png)
 
-### [2. PromptHub](https://github.com/Priyanshu085/Prompthub)
-PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and MongoDB. Empowering creativity, it enables users to seamlessly share and explore prompts for writing and ideation.
-![PromptHub Screenshot](/screenshots/Prompthub.png)
+### [2. readLites](https://github.com/Priyanshu085/readLites)
+readLites makes reading fun and easy! It uses smart technology to show pictures and pick out important ideas from stories. This helps you understand and enjoy books better!<br/>
+![readLites Screenshot](/screenshots/readLites.png)
 
-### [3. Portfolio](https://github.com/Priyanshu085/Portfolio)
-A showcase of my personal projects and achievements.
-![Portfolio Screenshot](/screenshots/Portfolio.png)
+### [3. PromptHub](https://github.com/Priyanshu085/Prompthub)
+PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and MongoDB. Empowering creativity, it enables users to seamlessly share and explore prompts for writing and ideation.<br/>
+![PromptHub Screenshot](/screenshots/Prompthub.png)
 
 ## Language and Tools
 <p align="left"> 
