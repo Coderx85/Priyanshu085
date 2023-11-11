@@ -23,15 +23,15 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 ## My Projects
 
 
-### [1. NexDrive](https://github.com/Priyanshu085/NexDrive) [Frontend Project](#)
+### [1. NexDrive](https://github.com/Priyanshu085/NexDrive) 
 NexDrive is a dynamic car marketplace built with Next.js, Tailwind CSS, and TypeScript.<br/> 
 ![NexDrive Screenshot](/screenshots/NexDrive.png)
 
-### [2. readLites](https://github.com/Priyanshu085/readLites)[Gen AI Project](#)
+### [2. readLites](https://github.com/Priyanshu085/readLites)
 readLites makes reading fun and easy! It uses smart technology to show pictures and pick out important ideas from stories. This helps you understand and enjoy books better!<br/>
 ![readLites Screenshot](/screenshots/readLites.png)
 
-### [3. PromptHub](https://github.com/Priyanshu085/Prompthub)[Full Stack Project](#)
+### [3. PromptHub](https://github.com/Priyanshu085/Prompthub)
 PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and MongoDB. Empowering creativity, it enables users to seamlessly share and explore prompts for writing and ideation.<br/>
 ![PromptHub Screenshot](/screenshots/Prompthub.png)
 
