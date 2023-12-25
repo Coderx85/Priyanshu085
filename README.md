@@ -8,6 +8,7 @@
 </div>
 
 
+<!--
 ### Table Of Content
 - [ABOUT ME](#about-me)
 - [MY PROJECTS](#my-projects)
@@ -15,10 +16,13 @@
 - [MY TECH STACK](#my-stack)
 - [LINKS](#links)
 - [LICENSE](#license)
-<!-- - [SOCIAL LINKS](#lets-connect) -->
+- [SOCIAL LINKS](#lets-connect) 
+-->
 
 ## About Me
 Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in Machine Learning. I specialize in Back-end Web Development and enjoy working on projects related to Generative AI and Prompt Engineering.
+
+[![An image of @priyanshu085's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu085)](https://holopin.io/@priyanshu085)
 
 ## 👇 Few things about me
 - 🌱 I’m currently learning more about Machine Learning and exploring new technologies.
@@ -29,8 +33,7 @@ Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu085&layout=donut-vertical&show_icons=true&theme=dark&title_color=04478d9&icon_color=04478d9&text_color=ffffff&bg_color=000)](https://github.com/Priyanshu085)
 
-[![An image of @priyanshu085's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu085)](https://holopin.io/@priyanshu085)
-
+<!--
 ## My Projects
 ### [1. NexDrive](https://github.com/Priyanshu085/NexDrive) 
 NexDrive is a dynamic car marketplace built with Next.js, Tailwind CSS, and TypeScript.<br/> 
@@ -43,6 +46,7 @@ readLites makes reading fun and easy! It uses smart technology to show pictures 
 ### [3. PromptHub](https://github.com/Priyanshu085/Prompthub)
 PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and MongoDB. Empowering creativity, it enables users to seamlessly share and explore prompts for writing and ideation.<br/>
 ![PromptHub Screenshot](/screenshots/Prompthub.png)
+-->
 
 ### Streetcred:
 
