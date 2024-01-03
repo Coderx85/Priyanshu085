@@ -3,7 +3,7 @@ name: Update Profile
 on:
   push:
     branches:
-      - main
+      - my
 
 jobs:
   update:
