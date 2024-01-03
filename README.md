@@ -60,10 +60,10 @@ PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and M
 
 ### <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Backend"/>
 
-### Links:
+<!-- ### Links:
 
 ### <a href="https://www.linkedin.com/in/priyanshu085/">linkedin</a> | <a href="https://www.github.com/Priyanshu085">github</a>
-
+ -->
 
 <!-- ## Language and Tools
 <p align="left"> 
@@ -89,8 +89,8 @@ PromptHub is a prompt-sharing platform crafted with Next.js, Tailwind CSS, and M
 ## Fun Fact
 I'm not funny 😉
 
-## License
-[MIT LICENSE](LICENSE)
+<!-- ## License
+[MIT LICENSE](LICENSE) -->
 
 <br>
 
