@@ -102,7 +102,7 @@ I'm not funny 😉
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu085&theme=shadow-blue&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu085&theme=shadow-blue&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 <!-- [![Priyanshu085's GitHub | Dependencies](https://stats.quine.sh/Priyanshu085/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Priyanshu085) -->
 
