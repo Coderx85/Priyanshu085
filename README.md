@@ -1,6 +1,10 @@
 # Hello there! 👋
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57BCDA&height=180&section=header&text=Priyanshu085&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+<picture> <img align="right" src="[https://drive.google.com/file/d/1cZiKHQYII3sTxQVv2nSuq5S27J5Hz7O8/view?usp=sharing]" width = 250px></picture>
 ## About Me
+
 Hello! I'm Priyanshu, a passionate Full Stack Developer with a keen interest in Machine Learning. I specialize in Back-end Web Development.
 
 ## 👇 Few things about me
